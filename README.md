@@ -642,3 +642,6 @@ MIT License - Desarrollado para fines educativos
 
 **Versión:** 1.0.0  
 **Última actualización:** Diciembre 2024
+
+
+https://sistemagestionti.up.railway.app/
